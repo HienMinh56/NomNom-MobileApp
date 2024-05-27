@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "910385601701",
+    "firebase_url": "https://fooddeli-2ec30-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fooddeli-2ec30",
+    "storage_bucket": "fooddeli-2ec30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910385601701:android:6cf4697d73ba660e8d414c",
+        "android_client_info": {
+          "package_name": "com.mycompany.nomnom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWgDlXGLRm6CRHbrTfIqQJBVePPCwuG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
